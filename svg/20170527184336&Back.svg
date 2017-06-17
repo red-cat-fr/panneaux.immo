@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN'
+        'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width='770mm' height='570mm' xml:lang='fr'
+xmlns='http://www.w3.org/2000/svg'
+xmlns:xlink='http://www.w3.org/1999/xlink'
+style='background-color:#0822e5' 
+id='backConfigurationSVG'
+ viewBox='0 0 770 570'>
+<circle cx='162' cy='136' r='100' style='fill:#3be507'
+            transform='rotate(0,162,136)'/>
+<path d= 'M 513 252 L 663 252 L 588 102 Z' style='fill:'
+            transform='rotate(0,588,202)'/>
+<path d= 'M 78 515.3013 L 178 515.3013 L 128 428.6987 Z' style='fill:#ff0000'
+            transform='rotate(0,128,472)'/>
+Si vous lisez ce message c'est que votre navigateur ne supporte pas le format SVG</svg>

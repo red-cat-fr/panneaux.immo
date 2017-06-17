@@ -1,0 +1,70 @@
+body {text-align: left; padding: 20px;}
+
+html, body {height: 100%; background-color: rgb(200, 200, 250);}
+
+.twoColumns{width: 100%; height: 25%; display:flex; flex-direction:row;}
+    /*margin: auto; text-align: center; align-content: center;}*/
+.oneColumn{width: 50%;height: 25%; display:flex; flex-direction:column;
+        margin: auto;text-align: center; align-items:center; vertical-align:top;}
+.left{width: 50%;height: 50%;float: left;text-align: right;}
+.right{width: 50%;height: 50%;float: right;text-align: left;}
+
+.centered{width : 100%;height:25%;margin: auto;text-align: center;align-content: center;}
+
+.footer{display: flex ;float: center;margin: 30px;}
+
+.lbl{font-size: 15px;font-style: normal;font-weight: bold;margin: 8px;vertical-align:text-top;}
+
+.theCanvas{display: flex;flex-direction: row;}
+.frontSVG{width: 50%;height: 50%;float: left;text-align: right;}
+.backSVG{width: 50%;height: 50%;float: right;text-align: left;}
+
+.title{font-size: 25px;font-weight: bold;margin: 5px;}
+
+.textToWrite{font-size:15px; font-style:normal; font-weight:bold;
+    background-color:#ffffff; text-align:center; width:200px; margin:10px;}
+
+input[type=checkbox]{border: 2px dotted #999; border-radius:1px;}
+/*Champs texte pilotés via boutons*/
+.textAuto{text-align:center;font-size: 10px;font-style: normal;font-weight: bold;
+    background-color:#fff; width : 50px; margin: 10px;}
+
+input[type=option]{text-align:center; width:50px; margin:2px;border: 2px dotted #999; border-radius:1px;}
+input[type=number]{text-align:center; width:50px; margin:2px;border: 2px; border-radius:1px;font-size: 10px;font-style: normal;font-weight: bold; background-color: #ffffff;}
+input[type=button]{text-align:center; width:auto; margin:4px;border: 2px; border-radius:1px;font-size: 15px;font-style: normal; font-weight: bold;background-color: #ffffff;}
+input[type=file]{text-align:center; width:auto; margin:2px;border: 2px; border-radius:1px;font-size: 10px;font-style: normal;font-weight: bold;background-color: #ffffff;}
+input[type=text]{text-align:center; width:auto; margin:2px;border: 2px; border-radius:1px;font-size: 12px;font-style: normal;font-weight: bold;background-color: #ffffff;}
+canvas{background-color: white;border: 1px solid #eee;box-shadow: #eee 0px 0px 0px 0px;}
+option{text-align: center; align-content: center;}
+.VerticalText{
+    writing-mode: vertical-lr;
+    text-orientation: sideways;
+}
+.mainTittle{
+    /*border: 2px solid;
+    border-color: #000;*/
+    font-size: 16px Arial ;
+    font-weight: bold;
+    font-family: sans-serif;
+    color:#000;
+
+    /*text-decoration: underline;*/
+    /*background-color: #000*/
+}
+@-webkit-keyframes blinker {
+  from { opacity: 1.0; }
+  to { opacity: 0.0; }
+}
+#price{
+    /*text-decoration: blink;
+    animation: blinker 1s linear infinite*/
+}
+/*http://stackoverflow.com/questions/16344354/how-to-make-blinking-flashing-text-with-css3 pour le blinking
+Version js :
+(function blink() {
+$('.blink_me').fadeOut(500).fadeIn(500, blink);
+})();
+http://stackoverflow.com/revisions/16344389/7
+
+
+*/

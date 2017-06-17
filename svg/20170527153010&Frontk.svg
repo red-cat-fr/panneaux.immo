@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 780 580"
+   id="frontConfigurationSVG"
+   style="background-color:#0822e5"
+   xml:lang="fr"
+   height="580mm"
+   width="780mm"><metadata
+   id="metadata3723">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs
+   id="defs3721" />
+<rect
+   id="rect3706"
+   transform="matrix(0.70742289,0.70679053,-0.70742289,0.70679053,0,0)"
+   style="fill:#ff0000;stroke-width:1.00044739"
+   width="122.05459"
+   height="190.08501"
+   y="-239.3562"
+   x="739.77509" />
+<path
+   id="path3708"
+   transform="rotate(-90,730,532)"
+   style="fill:#3be507"
+   d="M 680 582 L 830 582 L 680 432 Z" />
+<text
+   id="text3710"
+   transform="scale(1.0004472,0.99955296)"
+   style="font-style:italic;font-weight:400;font-size:50.02236176px;font-family:ArialNarrow;text-anchor:middle;fill:#3be507;stroke-width:1.00044727"
+   font-weight="400"
+   font-style="italic"
+   font-size="50"
+   y="566.25311"
+   x="444.19769">Hello world !</text>
+<ellipse
+   ry="100"
+   rx="100.08947"
+   id="circle3712"
+   style="fill:#ff0000;stroke-width:1.00044727"
+   cy="102"
+   cx="102.09036" />
+<path
+   id="path3714"
+   style="fill:#3be507;stroke-width:1.00044727"
+   d="M 1,580 H 151.1342 L 76.067101,430 Z" />
+<path
+   id="path3716"
+   style="fill:#3be507;stroke-width:1.00044727"
+   d="M 778.69517,0.6987 H 678.6057 l 50.04473,86.6026 z" />
+
+Si vous lisez ce message c'est que votre navigateur ne supporte pas le format SVG</svg>

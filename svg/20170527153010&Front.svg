@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN'
+        'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width='780mm' height='580mm' xml:lang='fr'
+xmlns='http://www.w3.org/2000/svg'
+xmlns:xlink='http://www.w3.org/1999/xlink'
+style='background-color:#0822e5' 
+id='frontConfigurationSVG'
+ viewBox='0 0 780 580'>
+<rect x='607' y='369' height='190' width='122' style='fill:#ff0000'
+            transform='rotate(45 668 464)'/>
+<path d= 'M 680 582 L 830 582 L 680 432 Z' style='fill:#3be507'
+            transform='rotate(-90,730,532)'/>
+<text x='444' y='566' font-size='50'
+                font-style='italic' fill='#3be507' font-family='ArialNarrow'
+                font-weight='400'
+                style='text-anchor:middle'
+                transform='rotate(0,444,566)'>Hello world !</text>
+<circle cx='102' cy='102' r='100' style='fill:#ff0000'
+            transform='rotate(0,102,102)'/>
+<path d= 'M 1 580 L 151 580 L 76 430 Z' style='fill:#3be507'
+            transform='rotate(0,76,530)'/>
+<path d= 'M 678 87.3013 L 778 87.3013 L 728 0.6987 Z' style='fill:#3be507'
+            transform='rotate(180,728,44)'/>
+Si vous lisez ce message c'est que votre navigateur ne supporte pas le format SVG</svg>
